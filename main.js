@@ -6,7 +6,7 @@ const sizes = {
 	height: 700,
 };
 
-const speedDown = 250;
+const speedDown = 300;
 
 const gameStartDiv = document.querySelector("#gameStartDiv")
 const gameStartBtn = document.querySelector("#gameStartBtn")
